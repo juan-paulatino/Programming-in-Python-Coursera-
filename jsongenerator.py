@@ -5,11 +5,10 @@ Import statements:
 '''
 import json
 from employee import details, employee_name, age, title
-
+    """ Imports the function 'details' """
 def create_dict(name, age, title):
     """ Creates a dictionary that stores an employee's information
 
-    [IMPLEMENT ME]
         1. Return a dictionary that maps "first_name" to name, "age" to age, and "title" to title
 
     Args:
@@ -32,7 +31,6 @@ def create_dict(name, age, title):
 def write_json_to_file(json_obj, output_file):
     """ Write json string to file
 
-    [IMPLEMENT ME]
         1. Open a new file defined by output_file
         2. Write json_obj to the new file
 

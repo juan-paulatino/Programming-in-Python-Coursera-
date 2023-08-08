@@ -1,2 +1,2 @@
 # Programming-in-Python-Coursera-
-Coding Exercises of the Course
+This is an example of a Python script that handles creating a JSON object from employee details and writing it to a file.

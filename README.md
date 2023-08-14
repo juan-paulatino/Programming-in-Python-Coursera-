@@ -12,4 +12,4 @@ This Python script represents a simple program for ordering items from a menu an
 8. Function 'main():' This is the main function that orchestrates the entire process. It calls 'take_order' to create an order, then calls other functions to print the order details, calculate subtotal, tax, and total, and finally summarizes the order by printing the grand total.
 9. 'if __name__ == "__main__":' This block ensures that the 'main()' function is executed only if the script is run directly, not if it's imported as a module.
 
-Overall, this script simulates a simple order processing system for a menu, calculates the subtotal, tax, and total amount, and provides the user with a summary of their order.
+This script showcases how functional programming principles can be used to create a simple yet useful program for processing orders from a menu and calculating the bill. It promotes a clear separation of concerns, code reusability, and a focus on data transformations rather than explicit control flow.

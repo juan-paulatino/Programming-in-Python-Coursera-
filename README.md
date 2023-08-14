@@ -1,5 +1,4 @@
 # Programming-in-Python-Coursera-
-Coding Exercises of the Course
 
 This Python script represents a simple program for ordering items from a menu and calculating the bill. Here's a breakdown of the script's components:
 

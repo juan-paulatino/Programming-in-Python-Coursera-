@@ -1,5 +1,4 @@
 # Programming-in-Python-Coursera-
-Coding Exercises of the Course
 
 This Python script demonstrates the conversion of a dictionary called "menu" into a JSON format using the json module. The "menu" dictionary holds information about various menu items, each having an assigned number, name, and price. The script's main purpose is to show how to convert this dictionary into a JSON format with proper indentation for improved readability.
 

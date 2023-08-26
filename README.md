@@ -5,4 +5,5 @@ Coding Exercises of the Course
    a. Classes
    b. Function
    c. Abstract Base Classes
-3. Dictionary to JSON
+   d. Subclasses
+4. Dictionary to JSON

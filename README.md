@@ -11,4 +11,4 @@ Here's a breakdown of the script:
 6. The 'Stock_by_Material' method is called on the 'polo' instance to get the current stock amount of items with the material "Cotton."
 7. The result is printed, showing the total stock amount for the material "Cotton."
 
-Note: There's a small issue in the 'Clothing' class where the 'material' variable is defined in the constructor but is not used anywhere. To fix this, you should use the instance variable 'self.material' instead of the local variable 'material'...
+Note: There's a small issue in the 'Clothing' class where the 'material' variable is defined in the constructor but is not used anywhere. To fix this, you should use the instance variable 'self.material' instead of the local variable 'material'.
